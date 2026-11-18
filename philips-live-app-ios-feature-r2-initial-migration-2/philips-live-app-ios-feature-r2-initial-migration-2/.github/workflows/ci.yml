@@ -296,6 +296,7 @@ jobs:
           if [ -n "${INSTALLED_PROFILE:-}" ]; then
             rm -f "$INSTALLED_PROFILE"
           fi
+          
 
       - name: Stop SSH agent
         if: always() && env.SSH_AGENT_PID != ''
