@@ -1,0 +1,130 @@
+name: PhilipsLiveApp
+options:
+  bundleIdPrefix: com.philips
+  deploymentTarget:
+    iOS: "16.0"
+  xcodeVersion: "26.0"
+  developmentLanguage: en
+  knownRegions:
+    - en
+    - es
+    - es-PR
+    - pt
+    - Base
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_DEFAULT_ACTOR_ISOLATION: MainActor
+    SWIFT_APPROACHABLE_CONCURRENCY: "YES"
+    IPHONEOS_DEPLOYMENT_TARGET: "16.0"
+    TARGETED_DEVICE_FAMILY: "1"
+    MARKETING_VERSION: "2.0"
+    CURRENT_PROJECT_VERSION: "5"
+
+packages:
+  Filament:
+    url: git@github.com:philips-internal/filament-swiftui.git
+    from: "2.9.0"
+  GenesysCloudMessengerTransport:
+    url: https://github.com/MyPureCloud/mm-genesyscloudmessengertransport-spm.git
+    from: "2.16.0"
+
+targets:
+  PhilipsLiveApp:
+    type: application
+    platform: iOS
+    sources:
+      - path: PhilipsLiveApp
+    dependencies:
+      - package: Filament
+      - package: GenesysCloudMessengerTransport
+    settings:
+      base:
+        INFOPLIST_FILE: PhilipsLiveApp/Info.plist
+        TARGETED_DEVICE_FAMILY: "1"
+        INFOPLIST_KEY_CFBundleDisplayName: "Philips Service Live"
+        INFOPLIST_KEY_NSCameraUsageDescription: "Philips Service Live uses your camera to capture photos of equipment or issues to share with Philips support during a service request."
+        INFOPLIST_KEY_NSPhotoLibraryUsageDescription: "Philips Service Live accesses your photo library only when you choose images to share with Philips support during a service request."
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: true
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: "UIInterfaceOrientationPortrait"
+        INFOPLIST_KEY_UIRequiredDeviceCapabilities: arm64
+        INFOPLIST_KEY_LSRequiresIPhoneOS: true
+        PRODUCT_BUNDLE_IDENTIFIER: com.philips.serviceliveapp.dev
+        DEVELOPMENT_TEAM: MWTEZ4CYM6
+        CODE_SIGN_STYLE: Manual
+        "CODE_SIGN_IDENTITY[sdk=iphoneos*]": iPhone Distribution
+        PROVISIONING_PROFILE_SPECIFIER: 7bc6db38-61b9-4edd-a830-af09f8282d01
+        GENERATE_INFOPLIST_FILE: true
+        # Substituted by XcodeGen at generate time. Unsuffixed = India and fallback.
+        GENESYS_DEPLOYMENT_ID: "${GENESYS_DEPLOYMENT_ID}"
+        GENESYS_DOMAIN: "${GENESYS_DOMAIN}"
+        GENESYS_DEPLOYMENT_ID_ES: "${GENESYS_DEPLOYMENT_ID_ES}"
+        GENESYS_DOMAIN_ES: "${GENESYS_DOMAIN_ES}"
+        GENESYS_DEPLOYMENT_ID_PT: "${GENESYS_DEPLOYMENT_ID_PT}"
+        GENESYS_DOMAIN_PT: "${GENESYS_DOMAIN_PT}"
+        GENESYS_DEPLOYMENT_ID_PR: "${GENESYS_DEPLOYMENT_ID_PR}"
+        GENESYS_DOMAIN_PR: "${GENESYS_DOMAIN_PR}"
+        GENESYS_DEPLOYMENT_ID_META: "${GENESYS_DEPLOYMENT_ID_META}"
+        GENESYS_DOMAIN_META: "${GENESYS_DOMAIN_META}"
+    preBuildScripts:
+      - name: Validate Genesys Chat Configuration
+        basedOnDependencyAnalysis: false
+        script: |
+          case "$GENESYS_DEPLOYMENT_ID$GENESYS_DOMAIN" in
+            *'$'*) GENESYS_DEPLOYMENT_ID="" ;;
+          esac
+          if [ -z "$GENESYS_DEPLOYMENT_ID" ] || [ -z "$GENESYS_DOMAIN" ]; then
+            echo "error: Default Genesys chat config missing (GENESYS_DEPLOYMENT_ID/GENESYS_DOMAIN empty)." >&2
+            echo "  Regenerate from a shell with them exported:" >&2
+            echo "    export GENESYS_DEPLOYMENT_ID=... GENESYS_DOMAIN=... && xcodegen generate" >&2
+            exit 1
+          fi
+    postBuildScripts:
+      - name: Verify Genesys Chat Configuration In Built Info.plist
+        basedOnDependencyAnalysis: false
+        script: |
+          PLIST="${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"
+          if [ ! -f "$PLIST" ]; then
+            echo "error: built Info.plist not found at $PLIST — cannot verify Genesys chat config." >&2
+            exit 1
+          fi
+          DEPLOYMENT_ID=$(/usr/libexec/PlistBuddy -c "Print :GenesysChatConfigurations:default:DeploymentId" "$PLIST" 2>/dev/null || true)
+          DOMAIN=$(/usr/libexec/PlistBuddy -c "Print :GenesysChatConfigurations:default:Domain" "$PLIST" 2>/dev/null || true)
+          if [ -z "$DEPLOYMENT_ID" ] || [ -z "$DOMAIN" ]; then
+            echo "error: Default Genesys chat config is blank in the built Info.plist." >&2
+            exit 1
+          fi
+
+  PhilipsLiveAppTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: PhilipsLiveAppTests
+        optional: true
+    dependencies:
+      - target: PhilipsLiveApp
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.philips.serviceliveapp.dev.tests
+        GENERATE_INFOPLIST_FILE: true
+
+schemes:
+  PhilipsLiveApp:
+    build:
+      targets:
+        PhilipsLiveApp: all
+        PhilipsLiveAppTests: [test]
+    test:
+      gatherCoverageData: true
+      coverageTargets:
+        - PhilipsLiveApp
+      targets:
+        - PhilipsLiveAppTests
+  PhilipsLiveApp Device:
+    build:
+      targets:
+        PhilipsLiveApp: all
+    run:
+      config: Debug
+      debugEnabled: false

@@ -1,0 +1,46 @@
+included:
+  - PhilipsLiveApp
+  - PhilipsLiveAppTests
+
+excluded:
+  - PhilipsLiveApp/Generated
+
+opt_in_rules:
+  - empty_count
+  - closure_spacing
+  - contains_over_filter_is_empty
+  - discouraged_optional_boolean
+  - empty_string
+  - force_unwrapping
+  - implicitly_unwrapped_optional
+  - overridden_super_call
+  - vertical_whitespace_closing_braces
+
+disabled_rules:
+  - line_length
+  - switch_case_alignment
+
+identifier_name:
+  min_length: 2
+
+type_body_length:
+  warning: 300
+  error: 500
+
+file_length:
+  warning: 500
+  error: 800
+
+trailing_comma:
+  mandatory_comma: true
+
+opening_brace:
+  ignore_multiline_statement_conditions: true
+
+custom_rules:
+  localization_through_l10n:
+    name: "Localization through L10n"
+    regex: '\b(NSLocalizedString\(|LocalizedStringKey\(|String\(localized:|Text\(")'
+    excluded: ".*/L10n\\.swift"
+    message: "Resolve text with L10n.string or L10n.key, the one place that looks strings up."
+    severity: error

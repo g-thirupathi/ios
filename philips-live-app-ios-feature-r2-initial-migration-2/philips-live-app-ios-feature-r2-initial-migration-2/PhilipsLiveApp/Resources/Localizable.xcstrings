@@ -1,0 +1,4093 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "AboutScreen.about_string" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to the Philips Service Live mobile app, where you can get quick support from Philips to help resolve device issues. This app's sole purpose and function is to provide quick access to Philips Remote Service Engineers in your country through phone and chat for support, troubleshooting, and service assistance to all customers, whether covered by a contract, warranty, or not. Requests are routed and prioritized internally based on service requirements and support criteria to ensure appropriate support. This app cannot be used for any other purpose. Please note that contact for Sleep and Respiratory Care products is currently not supported via this app."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a la aplicación móvil Philips Service Live, donde puedes recibir soporte rápido de Philips para ayudar a resolver problemas con los dispositivos. El único propósito y función de esta aplicación es proporcionar acceso rápido a los Ingenieros de Servicio Remotos de Philips en tu país a través de teléfono y chat para soporte, resolución de problemas y asistencia de servicio a todos los clientes, estén cubiertos por contrato, garantía o no. Las solicitudes se enrutan y priorizan internamente según los requisitos del servicio y los criterios de soporte para garantizar el apoyo adecuado. Esta aplicación no puede usarse para ningún otro propósito. Tenga en cuenta que actualmente no se permite el contacto para productos de Sleep and Respiratory Care a través de esta aplicación."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo à aplicação móvel Philips Service Live, onde pode obter apoio rápido da Philips para ajudar a resolver problemas com os seus dispositivos. O único objetivo e função desta aplicação é proporcionar acesso rápido aos engenheiros de assistência remota da Philips no seu país, através de telefone e chat, para apoio, resolução de problemas e assistência técnica a todos os clientes, estejam ou não abrangidos por um contrato ou garantia. Os pedidos são encaminhados e priorizados internamente com base nos requisitos de serviço e nos critérios de assistência, de modo a garantir um apoio adequado. Esta aplicação não pode ser utilizada para qualquer outro fim. Tenha em atenção que, atualmente, o contacto relativo a produtos de sono e cuidados respiratórios não é suportado através desta aplicação."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a la aplicación móvil Philips Service Live, donde puede recibir soporte rápido de Philips para ayudarle a resolver problemas con sus dispositivos. Esta aplicación ofrece acceso rápido a los ingenieros de Philips por teléfono y chat."
+          }
+        }
+      }
+    },
+    "AboutScreen.app_name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Service Live Application"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aplicação Philips Service Live"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Service Live Application"
+          }
+        }
+      }
+    },
+    "AboutScreen.back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
+    "AboutScreen.build_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Build"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Build"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versão"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compilación"
+          }
+        }
+      }
+    },
+    "AboutScreen.copyright" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© Koninklijke Philips N.V. 2026. All rights are reserved. Reproduction or transmission in whole or in part, in any form or by any means, electronic, mechanical, or otherwise, is prohibited without the prior written consent of the copyright owner."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© Koninklijke Philips N.V. 2026. Todos los derechos están reservados. La reproducción o transmisión total o parcial, en cualquier forma o por cualquier medio, electrónico, mecánico o de otro tipo, está prohibida sin el consentimiento previo por escrito del titular de los derechos de autor."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© Koninklijke Philips N.V. 2026. Todos os direitos reservados. É proibida a reprodução ou transmissão, total ou parcial, sob qualquer forma ou por qualquer meio, eletrónico, mecânico ou outro, sem o consentimento prévio por escrito do titular dos direitos de autor."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© Koninklijke Philips N.V. 2026. Todos los derechos están reservados. La reproducción o transmisión total o parcial, en cualquier forma o por cualquier medio, electrónico, mecánico u otro tipo, está prohibida sin el consentimiento previo por escrito del titular de los derechos de autor."
+          }
+        }
+      }
+    },
+    "AboutScreen.links.0.label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licenses"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licencias"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licenças"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licencias"
+          }
+        }
+      }
+    },
+    "AboutScreen.links.0.url" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "AboutScreen.links.1.label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms and Conditions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y Condiciones"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos e Condições"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y Condiciones"
+          }
+        }
+      }
+    },
+    "AboutScreen.links.1.url" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "AboutScreen.terms_and_conditions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms and Conditions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y Condiciones"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos e Condições"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y Condiciones"
+          }
+        }
+      }
+    },
+    "AboutScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobre"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        }
+      }
+    },
+    "AboutScreen.version_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versão"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión"
+          }
+        }
+      }
+    },
+    "AboutScreen.website" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "www.philips.com/"
+          }
+        }
+      }
+    },
+    "AboutScreen.website_url" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://www.philips.com/"
+          }
+        }
+      }
+    },
+    "AppUpdatePrompt.cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "AppUpdatePrompt.message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A new version of Philips Service Live is available. We recommend updating to the latest version."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hay una nueva versión de Philips Service Live disponible. Recomendamos actualizar a la versión más reciente."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Está disponível uma nova versão do Philips Service Live. Recomendamos que atualize para a versão mais recente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hay una nueva versión de Philips Service Live disponible. Le recomendamos actualizar a la versión más reciente."
+          }
+        }
+      }
+    },
+    "AppUpdatePrompt.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update available"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualización disponible"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualização disponível"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualización disponible"
+          }
+        }
+      }
+    },
+    "AppUpdatePrompt.update" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar"
+          }
+        }
+      }
+    },
+    "ChatScreen.add_a_photo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a photo"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir una foto"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar uma foto"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir una foto"
+          }
+        }
+      }
+    },
+    "ChatScreen.add_your_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add your message..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añada su mensaje"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicione a sua mensagem..."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añada su mensaje"
+          }
+        }
+      }
+    },
+    "ChatScreen.allow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir"
+          }
+        }
+      }
+    },
+    "ChatScreen.attachment_limit_hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload up to 5 attachments, with each file limited to 10 MB."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suba hasta 5 ficheros adjuntos, de hasta 10 MB cada uno."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carregue até 5 anexos, com um limite de 10 MB por ficheiro."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suba hasta 5 ficheros adjuntos, de hasta 10 MB cada uno."
+          }
+        }
+      }
+    },
+    "ChatScreen.camera_error_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera Error"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de cámara"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erro da câmara"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de cámara"
+          }
+        }
+      }
+    },
+    "ChatScreen.camera_image_exceed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your uploaded file is too large. Please upload a file smaller than 10 MB."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El archivo es demasiado grande. Por favor, seleccione un archivo menor de 10 MB."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O ficheiro carregado é demasiado grande. Carregue um ficheiro inferior a 10 MB."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El archivo es demasiado grande. Por favor, seleccione un archivo menor de 10 MB."
+          }
+        }
+      }
+    },
+    "ChatScreen.camera_permission_required_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please allow camera access to take photos."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, permita el acceso a la cámara para hacer fotos."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permita o acesso à câmara para tirar fotos."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, permita el acceso a la cámara para hacer fotos."
+          }
+        }
+      }
+    },
+    "ChatScreen.camera_unavailable_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera is not available on this device. Please choose a photo from your gallery instead."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La cámara no está disponible en este dispositivo. Por favor, pruebe seleccionando una foto de su galería."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A câmara não está disponível neste dispositivo. Escolha uma foto da galeria."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La cámara no está disponible en este dispositivo. Por favor, pruebe seleccionando una foto de su galería."
+          }
+        }
+      }
+    },
+    "ChatScreen.cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "ChatScreen.chatClosedAt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The chat is closed at "
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El chat se cerró a las "
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O chat foi encerrado às"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El chat se cerró a las"
+          }
+        }
+      }
+    },
+    "ChatScreen.chat_ended_message_description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your previous chat is closed by Philips now. Please be aware that the conversation will be deleted after 30 days after the chat."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Su chat anterior ha sido cerrado por Philips. Por favor, tenga en cuenta que la conversación será eliminada a los 30 días de la conversación."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O seu chat anterior foi encerrado pela Philips. Tenha em atenção que a conversa será eliminada 30 dias após o chat."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Su chat anterior ha sido cerrado por Philips. Por favor, tenga en cuenta que la conversación será eliminada a los 30 días de la conversación."
+          }
+        }
+      }
+    },
+    "ChatScreen.chat_with_agent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat with Philips agent"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat con un agente de Philips"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat com um agente Philips"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat con un agente de Philips"
+          }
+        }
+      }
+    },
+    "ChatScreen.confirm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm"
+          }
+        }
+      }
+    },
+    "ChatScreen.connecting_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecting to chat..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectando al chat..."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A ligar ao chat..."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectando al chat…"
+          }
+        }
+      }
+    },
+    "ChatScreen.connection_error_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to connect to chat. Please check your connection and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incapaz de conectar al chat. Por favor, compruebe su conexión e inténtelo de nuevo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível ligar ao chat. Verifique a ligação e tente novamente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incapaz de conectar al chat. Por favor, compruebe su conexión e inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "ChatScreen.duplicate_media_alert_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicate images/files were not added."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se añadieron imágenes duplicadas."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagens duplicadas não foram adicionadas."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se añadieron imágenes duplicadas."
+          }
+        }
+      }
+    },
+    "ChatScreen.duplicate_media_alert_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some files skipped"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algunos ficheros se omitieron"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alguns ficheiros foram ignorados"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algunos ficheros se omitieron"
+          }
+        }
+      }
+    },
+    "ChatScreen.end_chat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End chat"
+          }
+        }
+      }
+    },
+    "ChatScreen.end_chat_confirmation_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to end this chat?"
+          }
+        }
+      }
+    },
+    "ChatScreen.end_chat_confirmation_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End chat?"
+          }
+        }
+      }
+    },
+    "ChatScreen.end_chat_failed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to end the chat. Please try again."
+          }
+        }
+      }
+    },
+    "ChatScreen.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erro"
+          }
+        }
+      }
+    },
+    "ChatScreen.fail_to_take_photo_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to take photo. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al tomar la foto. Inténtelo de nuevo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível tirar a foto. Tente novamente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al tomar la foto. Inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "ChatScreen.failed_to_attach_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to attach "
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al adjuntar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha ao anexar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al adjuntar"
+          }
+        }
+      }
+    },
+    "ChatScreen.invalid_attachment_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected file could not be added. Please choose another file."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo añadir el archivo seleccionado. Por favor, elija otro archivo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível adicionar o ficheiro selecionado. Escolha outro ficheiro."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo añadir el archivo seleccionado. Por favor, elija otro archivo."
+          }
+        }
+      }
+    },
+    "ChatScreen.limit_reached_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can’t upload more than 5 files at a time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No puede adjuntar más de 5 archivos cada vez"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não pode carregar mais de 5 ficheiros de cada vez."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No puede adjuntar más de 5 archivos cada vez"
+          }
+        }
+      }
+    },
+    "ChatScreen.limit_reached_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limit Reached"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite máximo alcanzado"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite atingido"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite máximo alcanzado"
+          }
+        }
+      }
+    },
+    "ChatScreen.message_placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start a new chat..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar un nuevo chat..."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar um novo chat..."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar un nuevo chat…"
+          }
+        }
+      }
+    },
+    "ChatScreen.missing_chat_config_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat is not configured correctly. Please try again later."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Chat no está configurado correctamente. Por favor, inténtelo de nuevo más tarde."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O chat não está configurado corretamente. Tente novamente mais tarde."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Chat no está configurado correctamente. Por favor, inténtelo de nuevo más tarde."
+          }
+        }
+      }
+    },
+    "ChatScreen.networkerror" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Network error. Please check your internet connection and try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de red. Por favor, compruebe su conexión a internet e inténtelo de nuevo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erro de rede. Verifique a sua ligação à Internet e tente novamente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de red. Por favor, compruebe su conexión a internet e inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "ChatScreen.ok" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "ChatScreen.only_files_added_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Only %lld file(s) were added."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo %lld archivo(s) fueron añadidos."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apenas %lld ficheiro(s) foram adicionados."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo %lld archivo(s) fueron añadidos."
+          }
+        }
+      }
+    },
+    "ChatScreen.permission_denied_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enable camera access in your device settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, permita el acceso a la cámara en la configuración de su dispositivo"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ative o acesso à câmara nas definições do dispositivo."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, permita el acceso a la cámara en la configuración de su dispositivo"
+          }
+        }
+      }
+    },
+    "ChatScreen.permission_denied_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera Permission Denied"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso a la cámara denegado"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permissão da câmara negada"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso a la cámara denegado"
+          }
+        }
+      }
+    },
+    "ChatScreen.permission_required_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera Permission Required"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso a la cámara requerido"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permissão da câmara necessária"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso a la cámara requerido"
+          }
+        }
+      }
+    },
+    "ChatScreen.philips_live_chat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips live chat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Chat en vivo"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat Philips ao vivo"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Chat en vivo"
+          }
+        }
+      }
+    },
+    "ChatScreen.pick_file_failed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to pick file. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al elegir el archivo. Por favor, inténtelo de nuevo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha ao selecionar o ficheiro. Tente novamente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al elegir el archivo. Por favor, inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "ChatScreen.pick_gallery_failed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to pick photo. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al elegir la foto. Por favor, inténtelo de nuevo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha ao selecionar a foto. Tente novamente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al elegir la foto. Por favor, inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "ChatScreen.read_attachment_failed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to read selected file. Please try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al leer el archivo elegido. Por favor, inténtelo de nuevo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha ao ler o ficheiro selecionado. Tente novamente."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallo al leer el archivo elegido. Por favor, inténtelo de nuevo."
+          }
+        }
+      }
+    },
+    "ChatScreen.reconnecting_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconnecting to chat..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconectando al chat..."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restabelecendo ligação ao chat..."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconectando al chat…"
+          }
+        }
+      }
+    },
+    "ChatScreen.retry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tente novamente"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar"
+          }
+        }
+      }
+    },
+    "ChatScreen.take_a_photo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a photo"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hacer una foto"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tirar uma foto"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hacer una foto"
+          }
+        }
+      }
+    },
+    "ChatScreen.unsupported_attachment_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This file type is not supported. Please upload a supported document, image, audio, or video file."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este tipo de archivo no es compatible. Por favor, suba un documento, imagen, audio o video compatible."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este tipo de ficheiro não é suportado. Carregue um documento, imagem, ficheiro de áudio ou vídeo compatível."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este tipo de archivo no es compatible. Por favor, suba un documento, imagen, audio o video compatible."
+          }
+        }
+      }
+    },
+    "ChatScreen.upload_failed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " could not be uploaded."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "no se pudo adjuntar."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "não foi possível carregar."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "no se pudo adjuntar."
+          }
+        }
+      }
+    },
+    "ChatScreen.upload_failed_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload Failed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al adjuntar fichero"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Falha no carregamento"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al adjuntar fichero"
+          }
+        }
+      }
+    },
+    "ChatScreen.upload_files" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upload files"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir archivos"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carregar ficheiros"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir archivos"
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.attachment_body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please do not provide Philips with any attachments that may contain personal data. Personal data may include, for example, names, surnames, email addresses, patient IDs, or (medical) images where individuals or patient information are visible. Only share files that are necessary for the service request and do not contain identifiable information."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, no proporciones a Philips ningún archivo adjunto que pueda contener datos personales. Los datos personales pueden incluir, por ejemplo, nombres, apellidos, direcciones de correo electrónico, identificaciones de pacientes o imágenes (médicas) donde se ven personas o datos de pacientes. Solo comparte los archivos necesarios para la solicitud de servicio y que no contengan información identificable."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, não envie à Philips quaisquer anexos que possam conter dados pessoais. Os dados pessoais podem incluir, por exemplo, nomes, apelidos, endereços de e-mail, identificações de doentes ou imagens (médicas) nas quais sejam visíveis indivíduos ou informações sobre doentes. Partilhe apenas ficheiros que sejam necessários para o pedido de assistência e que não contenham informações identificáveis."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, no proporcione a Philips ningún archivo adjunto que pueda contener datos personales. Los datos personales pueden incluir, por ejemplo, nombres, apellidos, direcciones de correo electrónico, identificaciones de pacientes o imágenes (médicas) donde se ven personas o datos de pacientes. Comparta solo los archivos necesarios para la solicitud de servicio y que no contengan información identificable."
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.attachment_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attachment Disclaimer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de acceso"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal sobre anexos"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjuntos - Aviso Legal"
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.chat_body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to the chat. To help us identify your account and provide the requested support, please only share personal data strictly necessary for service-related communication, such as your business email address or phone number. Please refrain from sharing any additional personal data, relating to you or to other individuals. This helps us ensure secure communication and compliance with data protection requirements."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido al chat. Para ayudarnos a identificar tu cuenta y proporcionar el soporte solicitado, por favor comparte solo los datos personales estrictamente necesarios para la comunicación relacionada con el servicio, como tu correo electrónico o número de teléfono profesional. Por favor, abstente de compartir cualquier dato personal adicional, relacionado contigo o con otras personas. Esto nos ayuda a garantizar una comunicación segura y el cumplimiento de los requisitos de protección de datos."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo ao chat. Para nos ajudar a identificar a sua conta e a prestar o apoio solicitado, partilhe apenas os dados pessoais estritamente necessários para a comunicação relacionada com o serviço, tais como o seu endereço de e-mail profissional ou número de telefone. Evite partilhar quaisquer dados pessoais adicionais, relativos a si ou a outras pessoas. Isto ajuda-nos a garantir uma comunicação segura e o cumprimento dos requisitos de proteção de dados."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido al chat. Para ayudarnos a identificar su cuenta y proporcionarle el soporte solicitado, por favor comparta solo los datos personales estrictamente necesarios para la comunicación relacionada con el servicio, como su correo electrónico o número de teléfono profesional. Por favor, no comparta otro tipo de información personal adicional, suya o de otras personas. Esto nos ayuda a garantizar una comunicación segura y el cumplimiento de los requisitos de protección de datos."
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.chat_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat Disclaimer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de Chat"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal relativo ao chat"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat - Aviso legal"
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.got_it" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Got it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entendido"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entendido"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entendido"
+          }
+        }
+      }
+    },
+    "DisclaimerScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disclaimer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_failed_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please try again from your phone app."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, inténtelo de nuevo desde su teléfono"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tente novamente através da aplicação de telefone."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, inténtelo de nuevo desde su teléfono"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_failed_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to start call"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incapaz de establecer la llamada"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível iniciar a chamada"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incapaz de establecer la llamada"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_unavailable_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No support number is available for"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay número de soporte disponible para"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não existe um número de suporte disponível para"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay número de soporte disponible para"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_unavailable_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call unavailable"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llamada no disponible"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chamada indisponível"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llamada no disponible"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_us" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call us now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llámenos"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ligue-nos"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llámenos"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_us_msg" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For critical need and system down, call us right now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para un caso urgente o un equipo parado, llámenos ahora"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para casos críticos ou um equipamento parado, ligue-nos agora"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para un caso urgente o un equipo parado, llámenos ahora"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_us_msg_highlight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "critical need and system down"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "caso urgente o un equipo parado"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_us_msg_prefix" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For "
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para un "
+          }
+        }
+      }
+    },
+    "HomeScreen.call_us_msg_suffix" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", call us right now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", llámenos ahora"
+          }
+        }
+      }
+    },
+    "HomeScreen.call_us_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Call a Philips representative"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llame a un representante de Philips"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ligue para um representante da Philips"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llame a un representante de Philips"
+          }
+        }
+      }
+    },
+    "HomeScreen.chat_message_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat with one of our Philips smart agent and get immediate response."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicie el Chat con uno de nuestro agentes y obtenga respuesta inmediata"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Converse com o nosso agente e obtenha uma resposta imediata."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicie el Chat con uno de nuestro agentes y obtenga respuesta inmediata"
+          }
+        }
+      }
+    },
+    "HomeScreen.chat_now" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat now"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicie Chat"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar chat"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicie Chat"
+          }
+        }
+      }
+    },
+    "HomeScreen.header_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi, how can I help you today?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hola, ¿cómo le puedo ayudar?"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olá, como posso ajudar?"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hola, ¿cómo le puedo ayudar?"
+          }
+        }
+      }
+    },
+    "HomeScreen.philips_live_agent" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Live agent"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips - Agente en Vivo"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Live Agent"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Live Agent"
+          }
+        }
+      }
+    },
+    "HomeScreen.section_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Report system issues and collaborate with Philips engineers to troubleshoot"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infórmenos de problemas con sus equipos y colabore con un ingeniero de Philips en el diagnóstico"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comunique problemas do sistema e colabore com engenheiros da Philips para efetuar o diagnóstico"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infórmenos de problemas con sus equipos y colabore con un ingeniero de Philips en el diagnóstico"
+          }
+        }
+      }
+    },
+    "HomeScreen.tab_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Início"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
+          }
+        }
+      }
+    },
+    "HomeScreen.unread_msg" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unread message"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensaje sin leer"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensagem não lida"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensaje sin leer"
+          }
+        }
+      }
+    },
+    "LandingScreen.get_started" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get started"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comenzar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comenzar"
+          }
+        }
+      }
+    },
+    "LandingScreen.privacy_policy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy policy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de Privacidad"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de Privacidade"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Politica de Privacidad"
+          }
+        }
+      }
+    },
+    "LandingScreen.privacy_policy_url" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://www.philips.com/a-w/privacy-notice.html"
+          }
+        }
+      }
+    },
+    "LandingScreen.privacy_prefix" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips values and respects your privacy. Please read our"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips valora y respeta su privacidad. Por favor lea nuestra"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Philips valoriza e respeita a sua privacidade. Leia a nossa"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips valora y respeta su privacidad. Por favor lea nuestra"
+          }
+        }
+      }
+    },
+    "LandingScreen.privacy_suffix" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "for more information."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "para más información."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "para mais informação."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "para más información."
+          }
+        }
+      }
+    },
+    "LandingScreen.subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get started to report issues and collaborate with Philips engineers to troubleshoot"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceda para comunicar sus averías y colaborar con un ingeniero de Philips en el diagnóstico"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comece a comunicar avarias e colabore com engenheiros da Philips para efetuar o diagnóstico"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceda para comunicar sus averías y colaborar con un ingeniero de Philips en el diagnóstico"
+          }
+        }
+      }
+    },
+    "LandingScreen.terms_connector" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "and"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "y"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "y"
+          }
+        }
+      }
+    },
+    "LandingScreen.terms_of_use" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms of use"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos de Uso"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos de Utilização"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos de Uso"
+          }
+        }
+      }
+    },
+    "LandingScreen.terms_of_use_url" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://www.philips.com/a-w/terms-of-use.html"
+          }
+        }
+      }
+    },
+    "LandingScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to\nPhilips Service Live"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a Philips Service Live"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bem-vindo ao Service Live"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a Service Live"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.country_placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a country"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccione un país"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccione un país"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This helps us connect you to the correct local support team and relevant regional information."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esto nos ayuda a ponerle en contacto con el equipo de soporte local adecuado y con información regional relevante."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isto ajuda-nos a ligá-lo à equipa de suporte local correta e a informações regionais relevantes."
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esto nos ayuda a ponerle en contacto con el equipo de soporte local adecuado y con información regional relevante."
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.heading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Which country or region are you located in for Philips support?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿En qué país o región se encuentra para contactar con el soporte de Philips?"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em que país ou região se encontra para obter suporte Philips?"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿En qué país o región se encuentra para contactar con el soporte de Philips?"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.language_placeholder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecione um idioma"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccione un idioma"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.save" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        }
+      }
+    },
+    "LanguageRegionScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language & region"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma y región"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma y región"
+          }
+        }
+      }
+    },
+    "PermissionsScreen.cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "PermissionsScreen.disabled_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable notifications in your device settings to receive chat updates."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activa las notificaciones en los ajustes del dispositivo para recibir actualizaciones del chat."
+          }
+        }
+      }
+    },
+    "PermissionsScreen.disabled_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are disabled"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las notificaciones están desactivadas"
+          }
+        }
+      }
+    },
+    "PermissionsScreen.manage_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To turn notifications off, change the notification setting in your device settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para desactivar las notificaciones, cambia la configuración de notificaciones en los ajustes del dispositivo."
+          }
+        }
+      }
+    },
+    "PermissionsScreen.manage_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage notifications"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestionar notificaciones"
+          }
+        }
+      }
+    },
+    "PermissionsScreen.open_settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir ajustes"
+          }
+        }
+      }
+    },
+    "PermissionsScreen.push_notifications" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I want to receive push notifications"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quiero recibir notificaciones push"
+          }
+        }
+      }
+    },
+    "PermissionsScreen.push_notifications_description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receive notifications when Philips sends a new chat message."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recibe notificaciones cuando Philips envíe un nuevo mensaje de chat."
+          }
+        }
+      }
+    },
+    "PermissionsScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permissions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permisos"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.heading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Philips Service Live App Privacy Notice"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de privacidad de la aplicación «Philips Service Live»"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de Privacidade da aplicação Philips Service Live"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.last_updated" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last updated June 2026"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Última actualización junio de 2026"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Última atualização em junho de 2026"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.0.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Philips Service Live Mobile Application (“App”) connects healthcare professionals and other authorised hospital personnel with Philips support teams to communicate in connection with support activities related to Philips medical devices and systems.\n\nThis Philips Service Live App Privacy Notice (“App Privacy Notice”) explains how Philips processes information and personal data when you use the App, and supplements the global Philips Privacy Notice, which provides general information on how we process your personal data, including information not specifically covered in the App Privacy Notice."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La aplicación móvil Philips Service Live (\"App\") conecta a profesionales sanitarios y otro personal hospitalario autorizado con los equipos de soporte de Philips para comunicarse en relación con actividades de soporte relacionadas con dispositivos y sistemas médicos de Philips.\n\nEste Aviso de Privacidad de la App « Philips Service Live App » (\"Aviso de Privacidad de la App\") explica cómo Philips trata la información y datos personales cuando utilizas la App, y complementa el Aviso de Privacidad global de Philips, que proporciona información general sobre cómo tratamos tus datos personales, incluyendo información no especificamente cubierta en el Aviso de Privacidad de la App."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A aplicação móvel Philips Service Live («Aplicação») liga profissionais de saúde e outro pessoal hospitalar autorizado às equipas de apoio da Philips, para que possam comunicar no âmbito de atividades de apoio relacionadas com dispositivos e sistemas médicos da Philips.\n\nA presente Declaração de Privacidade da aplicação Philips Service Live («Declaração de Privacidade da Aplicação») explica como a Philips trata as informações e os dados pessoais quando utiliza a Aplicação e complementa a Declaração de Privacidade global da Philips, que fornece informações gerais sobre a forma como tratamos os seus dados pessoais, incluindo informações não abrangidas especificamente pela Declaração de Privacidade da Aplicação."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.0.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTRODUCTION AND SCOPE"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introducción y alcance"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTRODUÇÃO E ÂMBITO"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.1.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The data controllers for the processing of your personal data related to your basic use of the App (such as your contact details and app usage data) are Philips International B.V., with address Prinses Irenestraat 59, 1077 WV Amsterdam and the Philips Group Companies established in the Markets, acting as joint controllers."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los responsables de tratamiento de tus datos personales relacionados con el uso básico de la aplicación (como tus datos de contacto y datos de uso de la app) son Philips International B.V., con dirección Prinses Irenestraat 59, 1077 WV Ámsterdam, y las entidades del Grupo Philips establecidas en los Mercados, actuando como co-responsables."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os responsáveis pelo tratamento dos seus dados pessoais relacionados com a sua utilização básica da Aplicação (tais como os seus dados de contacto e dados de utilização da aplicação) são a Philips International B.V., com sede em Prinses Irenestraat 59, 1077 WV Amesterdão, e as empresas do Grupo Philips estabelecidas nos Mercados, atuando como responsáveis conjuntos pelo tratamento."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.1.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DATA CONTROLLER"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Responsable del Tratamiento de datos"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RESPONSÁVEL PELO TRATAMENTO"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.2.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subject to your choices, we process your personal data for the following purposes:\n\n• Accessing and using the App. We process your personal data to identify users and enable secure access to the App by asking you to provide the business email address associated with your organisation’s service contract.\n\n• Providing App Services and managing communication. We process personal data to enable communication between authorised users and Philips support teams in relation to service requests, troubleshooting, and support activities associated with Philips medical devices and systems.\n\n• Maintaining security and operation of the App. We process limited technical and operational information necessary to ensure the functionality and proper performance of the App."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sujeto a tus elecciones, trataremos tus datos personales para los siguientes fines:\n\n• Acceder y usar la app. Trataremos tus datos personales para identificar a los usuarios y permitir el acceso seguro a la App pidiéndote que facilites la dirección de correo electrónico empresarial asociada al contrato de servicio de tu organización.\n\n• Proporcionar servicios de aplicaciones y gestionar la comunicación. Tratamos datos personales para facilitar la comunicación entre usuarios autorizados y equipos de soporte de Philips en relación con solicitudes de servicio, resolución de problemas y actividades de soporte asociadas con dispositivos y sistemas médicos Philips.\n\n• Mantener la seguridad y el funcionamiento de la aplicación. Tratamos la información técnica y operativa limitada necesaria para garantizar la funcionalidad y el correcto rendimiento de la App."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sujeito às suas escolhas, tratamos os seus dados pessoais para os seguintes fins:\n\n• Aceder e utilizar a aplicação. Tratamos os seus dados pessoais para identificar os utilizadores e permitir o acesso seguro à aplicação, solicitando-lhe que forneça o endereço de e-mail profissional associado ao contrato de serviço da sua organização.\n\n• Prestação de serviços da aplicação e gestão da comunicação. Tratamos dados pessoais para permitir a comunicação entre utilizadores autorizados e as equipas de apoio da Philips relativamente a pedidos de assistência, resolução de problemas e atividades de apoio associadas aos dispositivos e sistemas médicos da Philips.\n\n• Manutenção da segurança e do funcionamento da aplicação. Tratamos informações técnicas e operacionais limitadas, necessárias para garantir a funcionalidade e o desempenho adequado da aplicação."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.2.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WHY WE PROCESS YOUR DATA"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por qué Tratamos tus datos"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "POR QUE MOTIVO TRATAMOS OS SEUS DADOS"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.3.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The categories of personal data we process include:\n\n• Accessing and using the App. User identification and account information (such as your name, surname, and business email address).\n\n• Providing App Services and managing communication. Communication and service-related information (such as chat messages exchanged with Philips support including service requests and issue descriptions, and communication timestamps and related service metadata).\n\n• Maintaining security and operation of the App. Device and application-related information (such as operating system details, screen resolution, and language and region settings)."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las categorías de datos personales que tratamos incluyen:\n\n• Acceder y usar la app. Identificación de usuario e información de la cuenta (como tu nombre, apellido y dirección de correo electrónico profesional).\n\n• Proporcionar servicios de aplicaciones y gestionar la comunicación. Comunicación e información relacionada con servicios (como mensajes de chat intercambiados con el soporte de Philips, incluyendo solicitudes de servicio y descripciones de incidencias, y marcas de tiempo de comunicación y metadatos de servicios relacionados).\n\n• Mantener la seguridad y el funcionamiento de la aplicación. Información relacionada con dispositivos y aplicaciones (como detalles del sistema operativo, resolución de pantalla y ajustes de idioma y región)."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As categorias de dados pessoais que processamos incluem:\n\n• Acesso e utilização da aplicação. Identificação do utilizador e informações da conta (tais como o seu nome, apelido e endereço de e-mail profissional).\n\n• Prestação de serviços da aplicação e gestão da comunicação. Informações relacionadas com a comunicação e os serviços (tais como mensagens de chat trocadas com o apoio da Philips, incluindo pedidos de assistência e descrições de problemas, bem como registos de data e hora das comunicações e metadados de serviço relacionados).\n\n• Manutenção da segurança e do funcionamento da aplicação. Informações relacionadas com o dispositivo e a aplicação (tais como detalhes do sistema operativo, resolução do ecrã e definições de idioma e região)."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.3.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "WHAT DATA WE PROCESS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qué datos Tratamos"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QUE DADOS PROCESSAMOS"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.4.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The lawful bases we rely on to process your personal data are as follows:\n\n• Accessing and using the App. We rely on the legal basis of the performance of a contract to identify users and provide access to our remote services in the context of the service relationship between Philips and the relevant healthcare institution.\n\n• Providing App services and managing communication. We rely on the legal basis of the performance of a contract to facilitate communication, support requests, troubleshooting activities, and related service operations associated with Philips medical devices and systems.\n\n• Maintaining security and operation of the App. We rely on legitimate interest to maintain the security, integrity, availability, and proper functioning of the App and related systems."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las bases legales en las que nos basamos para tratar tus datos personales son las siguientes:\n\n• Acceder y usar la app. Nos basamos en la base legal de la ejecución de un contrato para identificar usuarios y proporcionar acceso a nuestros servicios remotos en el contexto de la relación de servicio entre Philips y la institución sanitaria correspondiente.\n\n• Proporcionar servicios de aplicaciones y gestionar la comunicación. Nos basamos en la base legal del cumplimiento de un contrato para facilitar la comunicación, solicitudes de soporte, actividades de resolución de problemas y operaciones de servicio relacionadas con dispositivos y sistemas médicos Philips.\n\n• Mantener la seguridad y el funcionamiento de la aplicación. Confiamos en el interés legítimo para mantener la seguridad, integridad, disponibilidad y buen funcionamiento de la App y los sistemas relacionados."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As bases legais em que nos baseamos para tratar os seus dados pessoais são as seguintes:\n\n• Acesso e utilização da aplicação. Baseamo-nos na base jurídica da execução de um contrato para identificar os utilizadores e fornecer acesso aos nossos serviços remotos no contexto da relação de prestação de serviços entre a Philips e a instituição de saúde relevante.\n\n• Prestação de serviços da aplicação e gestão da comunicação. Baseamo-nos na base jurídica da execução de um contrato para facilitar a comunicação, os pedidos de apoio, as atividades de resolução de problemas e as operações de serviço relacionadas com os dispositivos e sistemas médicos da Philips.\n\n• Manutenção da segurança e do funcionamento da Aplicação. Baseamo-nos no interesse legítimo para manter a segurança, a integridade, a disponibilidade e o bom funcionamento da Aplicação e dos sistemas relacionados."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.4.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAWFUL BASIS FOR PROCESSING"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Base legal para el Tratamiento"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BASE LEGAL PARA O TRATAMENTO"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.5.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat communications and related messages exchanged through the App are retained for a maximum period of 30 days and are automatically deleted thereafter, unless a longer retention period is required for security, legal, or regulatory reasons."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las comunicaciones por chat y los mensajes relacionados intercambiados a través de la aplicación se conservan durante un máximo de 30 días y se eliminan automáticamente a partir de entonces, salvo que se requiera un periodo de retención más largo por motivos de seguridad, legales o normativos."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As comunicações por chat e as mensagens relacionadas trocadas através da aplicação são retidas por um período máximo de 30 dias e são automaticamente eliminadas posteriormente, a menos que seja necessário um período de retenção mais longo por motivos de segurança, legais ou regulamentares."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.5.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RETENTION"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RETENCIÓN"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RETENÇÃO"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.6.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When required to provide our services, the app may request your permission to access your mobile device’s storage capabilities, sensors or other features. These permissions include:\n\n• Files. The App may request access to files and storage capabilities to enable users to upload service-related attachments necessary for support requests.\n\n• Camera. The App may request access to the device camera to allow users to capture and upload images related to service requests or troubleshooting activities."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando sea necesario para prestar nuestros servicios, la aplicación puede solicitar tu permiso para acceder a tu móvil, en concreto a capacidades de almacenamiento, sensores u otras características del dispositivo. Estos permisos incluyen:\n\n• Archivos. La aplicación puede solicitar acceso a archivos y capacidades de almacenamiento para permitir a los usuarios cargar archivos adjuntos relacionados con el servicio necesarios para las solicitudes de soporte.\n\n• Cámara. La aplicación puede solicitar acceso a la cámara del dispositivo para permitir a los usuarios capturar y subir imágenes relacionadas con solicitudes de servicio o actividades de solución de problemas."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando necessário para a prestação dos nossos serviços, a aplicação poderá solicitar a sua autorização para aceder às capacidades de armazenamento, sensores ou outras funcionalidades do seu dispositivo móvel. Estas autorizações incluem:\n\n• Ficheiros. A aplicação pode solicitar acesso a ficheiros e capacidades de armazenamento para permitir que os utilizadores carreguem anexos relacionados com o serviço, necessários para pedidos de assistência.\n\n• Câmara. A aplicação pode solicitar acesso à câmara do dispositivo para permitir que os utilizadores capturem e carreguem imagens relacionadas com pedidos de assistência ou atividades de resolução de problemas."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.6.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PERMISSIONS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permisos"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AUTORIZAÇÕES"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.7.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "When required to provide our services and subject to this App Privacy Notice, we may access information from your device or store certain information on your device. In order to do this, we may use various technologies such as local storage, tags, SDKs, or similar technologies, which we collectively refer to as ‘Cookies’ hereafter.\n\n• Required Cookies. In some cases, access/storage of information on your device is essential to provide the App services to you. In such cases, we do not need your prior consent to enable the access or storage.\n\n• Security and Session management. We use functional Cookies for security, session management, and service-related purposes. These Cookies help us verify your authorised access via your business email and provide our support services securely.\n\n• Cookies required to provide the Service explicitly requested by you. When essential to provide our services (e.g., to ensure that we provide App content relevant to your region, and in your preferred language; or to make sure that the content fits your mobile device screen), we may need to process information from your mobile device including your type of mobile operating system, screen resolution, session and usage data, or service-related performance data."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando sea necesario prestar nuestros servicios y sujeto a este Aviso de Privacidad de la App, podemos acceder a información desde tu dispositivo o almacenar cierta información en tu dispositivo. Para ello, podemos utilizar diversas tecnologías como almacenamiento local, etiquetas, SDKs o tecnologías similares, que colectivamente denominaremos ‘Cookies’ a partir de ahora.\n\n• Cookies obligatorias. En algunos casos, el acceso o almacenamiento de información en tu dispositivo es esencial para proporcionarte los servicios de la App. En tales casos, no necesitamos tu consentimiento previo para habilitar el acceso o almacenamiento.\n\n• Seguridad y gestión de sesiones. Utilizamos cookies funcionales para fines de seguridad, gestión de sesiones y servicios relacionados. Estas cookies nos ayudan a verificar tu acceso autorizado a través de tu correo electrónico empresarial y a ofrecer nuestros servicios de soporte de forma segura.\n\n• Se requieren cookies para proporcionar el Servicio que solicitas explícitamente. Cuando es necesario ofrecer nuestros servicios (por ejemplo, para asegurarnos de que ofrecemos contenido de la app relevante para tu región y en tu idioma preferido; o para asegurarnos de que el contenido se adapte a la pantalla de tu dispositivo móvil), puede que necesitemos procesar información de tu dispositivo móvil, incluyendo tu tipo de sistema operativo móvil, resolución de pantalla, datos de sesión y uso, o datos de rendimiento relacionados con servicios."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando necessário para prestar os nossos serviços e sujeito à presente Declaração de Privacidade da Aplicação, poderemos aceder a informações do seu dispositivo ou armazenar determinadas informações no mesmo. Para o efeito, poderemos utilizar várias tecnologias, tais como armazenamento local, tags, SDKs ou tecnologias semelhantes, às quais nos referiremos doravante coletivamente como «Cookies».\n\n• Cookies obrigatórios. Em alguns casos, o acesso/armazenamento de informações no seu dispositivo é essencial para lhe prestarmos os serviços da Aplicação. Nesses casos, não necessitamos do seu consentimento prévio para ativar o acesso ou o armazenamento.\n\n• Segurança e gestão de sessões. Utilizamos cookies funcionais para fins de segurança, gestão de sessões e relacionados com o serviço. Estes cookies ajudam-nos a verificar o seu acesso autorizado através do seu e-mail profissional e a prestar os nossos serviços de apoio de forma segura.\n\n• Cookies necessários para prestar o Serviço explicitamente solicitado por si. Quando for essencial para prestar os nossos serviços (por exemplo, para garantir que fornecemos conteúdo da Aplicação relevante para a sua região e no seu idioma preferido; ou para garantir que o conteúdo se adapta ao ecrã do seu dispositivo móvel), poderemos ter de processar informações do seu dispositivo móvel, incluindo o tipo de sistema operativo móvel, a resolução do ecrã, dados de sessão e de utilização, ou dados de desempenho relacionados com o serviço."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.7.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ACCESSING OR STORING INFORMATION ON YOUR DEVICE"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso o almacenamiento de información en tu dispositivo"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ACESSO OU ARMAZENAMENTO DE INFORMAÇÕES NO SEU DISPOSITIVO"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.8.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This Privacy Notice forms part of, and must be read in conjunction with, the global Philips Privacy Notice, which we encourage you to read. The global Philips privacy notice is an integral component of this document and provides additional information on the categories of third parties with whom we may share your personal data, the measures we implement to protect your personal data, international data transfers and the safeguards in place, your privacy rights under applicable data protection laws, how to contact the relevant Data Protection Officer, or lodge a complaint, and relevant information specific to certain jurisdictions."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este Aviso de Privacidad forma parte y debe leerse junto con el Aviso de Privacidad global de Philips, que te animamos a leer. El aviso global de privacidad de Philips es un componente integral de este documento y proporciona información adicional sobre las categorías de terceros con los que podemos compartir tus datos personales, las medidas que implementamos para protegerlos, las transferencias internacionales de datos y las salvaguardas vigentes, tus derechos de privacidad bajo las leyes de protección de datos aplicables, cómo contactar con el responsable de protección de datos correspondiente, o presentar una queja, y obtener información relevante específica de ciertas jurisdicciones."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta Declaração de Privacidade faz parte da Declaração de Privacidade global da Philips e deve ser lida em conjunto com a mesma, cuja leitura recomendamos. A Declaração de Privacidade global da Philips é parte integrante deste documento e fornece informações adicionais sobre as categorias de terceiros com quem podemos partilhar os seus dados pessoais, as medidas que implementamos para proteger os seus dados pessoais, as transferências internacionais de dados e as salvaguardas em vigor, os seus direitos de privacidade ao abrigo das leis de proteção de dados aplicáveis, como contactar o Responsável pela Proteção de Dados relevante ou apresentar uma reclamação, bem como informações relevantes específicas de determinadas jurisdições."
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.sections.8.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADDITIONAL PRIVACY INFORMATION"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Información adicional de privacidad"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INFORMAÇÕES ADICIONAIS SOBRE PRIVACIDADE"
+          }
+        }
+      }
+    },
+    "PrivacyPolicyScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy policy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de Privacidad"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de Privacidade"
+          }
+        }
+      }
+    },
+    "SCREEN.Home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Início"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
+          }
+        }
+      }
+    },
+    "SCREEN.Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Definições"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        }
+      }
+    },
+    "SettingsScreen.about" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        }
+      }
+    },
+    "SettingsScreen.disclaimer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disclaimer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        }
+      }
+    },
+    "SettingsScreen.permissions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permissions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permisos"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permisos"
+          }
+        }
+      }
+    },
+    "SettingsScreen.privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy policy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de Privacidad"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso de Privacidade"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Política de Privacidad"
+          }
+        }
+      }
+    },
+    "SettingsScreen.tab_label" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Definições"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        }
+      }
+    },
+    "SettingsScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Definições"
+          }
+        },
+        "es-PR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.back" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltar"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.heading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conditions of use Philips Service Live mobile app"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condiciones de uso de la aplicación móvil «Philips Service Live»"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condições de utilização da aplicação móvel Philips Service Live"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.intro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for your interest in this mobile application. This Philips Service Live mobile app (“App”) is offered to you by Philips Medical Systems Nederland B.V., Veenpluis 6, 5684 PC Best, the Netherlands (“Philips”). By using the App, you agree to abide by the following terms and conditions."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Junio 2026\n\nGracias por tu interés en esta aplicación móvil. Esta aplicación móvil Philips Service Live (\"App\") te la ofrece Philips Medical Systems Nederland B.V., Veenpluis 6, 5684 PC Best, Países Bajos (\"Philips\"). Al utilizar la App, aceptas cumplir con los siguientes términos y condiciones."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agradecemos o seu interesse nesta aplicação móvel. Esta aplicação móvel Philips Service Live («Aplicação») é-lhe disponibilizada pela Philips Medical Systems Nederland B.V., Veenpluis 6, 5684 PC Best, Países Baixos («Philips»). Ao utilizar a Aplicação, concorda em cumprir os seguintes termos e condições."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.0.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This App enables you to receive quick access to the Philips Service team. This will support you in faster troubleshooting during an issue encountered with Philips device or solution (like a CT, MR, Ultrasound machine). This App is not connected to any device through the internet or the cloud and cannot transfer files to or from the devices. This app only allows the user to connect with the appropriate personnel within Philips. The Philips employee then takes necessary actions to troubleshoot and resolve the device issues."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicación te permite acceder rápidamente al equipo de Servicio de Philips. Esto te ayudará a solucionar problemas más rápido en caso de problema con un dispositivo o solución Philips (como una máquina de TC, resonancia magnética o equipo de ultrasonidos). Esta aplicación no está conectada a ningún dispositivo a través de internet ni de la nube y no puede transferir archivos hacia o desde los dispositivos. Esta aplicación solo permite al usuario conectarse con el personal adecuado dentro de Philips. El empleado de Philips toma entonces las medidas necesarias para solucionar y solucionar los problemas del dispositivo."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este Aplicação permite-lhe aceder rapidamente à equipa de assistência da Philips. Isto irá ajudá-lo a resolver mais rapidamente quaisquer problemas que surjam com um dispositivo ou solução da Philips (como um tomógrafo, um aparelho de ressonância magnética ou um ecógrafo). Este Aplicação não está ligado a nenhum dispositivo através da Internet ou da nuvem e não pode transferir ficheiros de ou para os dispositivos. Este Aplicação permite apenas que o utilizador entre em contacto com o pessoal adequado da Philips. O colaborador da Philips tomará então as medidas necessárias para diagnosticar e resolver os problemas do dispositivo."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.0.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What this App does for you"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qué hace esta app por ti"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que esta Aplicação lhe oferece"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.1.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You may use this App in connection with the purpose as described above on a mobile device owned or controlled by you. The App is licensed, not sold to you for your use. This license is non-transferable and is between you and Philips. Philips reserves all other rights in the App. You agree that you will not, and will not allow a third party to: (i) reverse engineer the App; (ii) attempt to work around safeguards within the App; (iii) remove any App notices; (iv) use the App in violation of any law or regulation, or in violation of any obligation you may have to another person or entity; (v) or share, sublicence or publish the App for other use without express prior written authorization from Philips.\n\nPhilips may, at any time and at its discretion: (i) modify the (content of the) App, including without limitation, removing content; (ii) stop updating the App; and/or (iii) terminate this license, without prior written notice (period) being required."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puedes utilizar esta aplicación en relación con el propósito descrito anteriormente en un dispositivo móvil que poseas o controles. La app está licenciada pero no se vende para tu uso. Esta licencia no es transferible y solo puede ser utilizada entre tú y Philips. Philips se reserva todos los demás derechos sobre la App. Al utilizar la App, aceptas que no permitirás que un tercero: (i) haga ingeniería inversa de la App; (ii) intente sortear las salvaguardas dentro de la App; (iii) elimine cualquier aviso de App; (iv) utilice la aplicación en violación de cualquier ley o regulación, o en violación de cualquier obligación que puedas tener hacia otra persona o entidad; (v) o comparta, sublicencie o publique la aplicación para otros usos sin autorización expresa previa por escrito de Philips.\n\nPhilips puede, en cualquier momento y a su discreción: (i) modificar el contenido de la App (modificar la App), incluyendo sin limitaciones la eliminación de contenido; (ii) dejar de actualizar la App; y/o (iii) terminar esta licencia, sin que se requiera un aviso previo por escrito (punto)."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pode utilizar esta aplicação para os fins descritos acima num dispositivo móvel que seja da sua propriedade ou esteja sob o seu controlo. A aplicação é-lhe concedida sob licença, não vendida, para a sua utilização. Esta licença é intransferível e é celebrada entre si e a Philips. A Philips reserva-se todos os restantes direitos sobre a aplicação. Concorda em não: (i) realizar engenharia reversa da aplicação; (ii) tentar contornar as medidas de segurança do Aplicação; (iii) remover quaisquer avisos do Aplicação; (iv) utilizar o Aplicação em violação de qualquer lei ou regulamento, ou em violação de qualquer obrigação que possa ter para com outra pessoa ou entidade; (v) ou partilhar, sublicenciar ou publicar o Aplicação para outros fins sem autorização prévia expressa por escrito da Philips.\n\nA Philips pode, a qualquer momento e a seu critério: (i) modificar o (conteúdo do) Aplicação, incluindo, sem limitação, a remoção de conteúdo; (ii) deixar de atualizar o Aplicação; e/ou (iii) rescindir esta licença, sem que seja necessário qualquer aviso prévio por escrito."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.1.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "License"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licencia"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licença"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.2.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This App (including its content) is provided by Philips “as is”. To the maximum extent permitted by law, Philips disclaims all warranties of any kind, whether express or implied, relating to this App, including but not limited to any warranty that it will operate error free or uninterrupted. Philips specifically disclaims all implied warranties of merchantability, fitness for a particular purpose or non-infringement of third-party rights.\n\nThis App should not be regarded as a substitute for the materials that came with your device (e.g. Instructions for Use). Before attempting to use any Philips device, you must read the Instructions for Use of the device thoroughly, paying particular attention to all warnings, cautions, and notes it may contain. In all cases, the information contained in the Instructions for Use is considered leading information."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicación (incluido su contenido) es proporcionada por Philips \"tal cual\". En la medida máxima permitida por la ley, Philips no proporciona ninguna garantías de ningún tipo, expresas o implícitas, relacionadas con esta App, incluyendo pero no limitándose a cualquier garantía de que la App pudiera funcionar siempre sin errores o sin interrupciones. Philips rechaza específicamente todas las garantías implícitas de comerciabilidad, idoneidad para un propósito particular o no infracción de derechos de terceros, y el usuario acepta que utiliza la App sin garantías.\n\nEsta aplicación no debe considerarse un sustituto de los materiales que venían con tu dispositivo (por ejemplo, Instrucciones de Uso). Antes de intentar usar cualquier dispositivo Philips, debes leer detenidamente las Instrucciones de Uso del dispositivo, prestando especial atención a todas las advertencias, precauciones y notas que pueda contener. En todos los casos, la información contenida en las Instrucciones de Uso se considera información principal."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicação (incluindo o seu conteúdo) é fornecida pela Philips «tal como está». Na medida máxima permitida por lei, a Philips isenta-se de todas as garantias de qualquer tipo, quer expressas quer implícitas, relacionadas com esta aplicação, incluindo, mas não se limitando a, qualquer garantia de que funcionará sem erros ou de forma ininterrupta. A Philips isenta-se especificamente de todas as garantias implícitas de comercialização, adequação a um fim específico ou não violação de direitos de terceiros.\n\nEsta aplicação não deve ser considerada um substituto dos materiais fornecidos com o seu dispositivo (por exemplo, as instruções de utilização). Antes de tentar utilizar qualquer dispositivo Philips, deve ler atentamente as instruções de utilização do dispositivo, prestando especial atenção a todos os avisos, precauções e notas que estas possam conter. Em todos os casos, as informações contidas nas instruções de utilização são consideradas as informações de referência."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.2.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disclaimer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aviso legal"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isenção de responsabilidade"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.3.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN NO EVENT WILL PHILIPS, OR ANY OWNERS OR LICENSORS OF, OR AUTHOR OR CONTRIBUTORS TO, THE APP, BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, DATA, OR PROFITS; BUSINESS INTERRUPTION; OR PERSONAL INJURY OR DEATH) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE APP, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. PHILIPS’ AGGREGATE LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT OR OTHERWISE WITH RESPECT TO THE APP OR OTHERWISE SHALL NOT EXCEED THE AMOUNT OF THE FEE PAID BY YOU FOR THE APP."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "en ningún caso Philips, ni ningún propietario o licenciante, autor o contribuyente de la App, será responsable por daños directos, indirectos, incidentales, especiales, ejemplares o consecuentes (incluyendo, pero no limitado a, pérdida de uso, pérdida de datos o pérdida de beneficios; interrupción de negocios; o lesiones personales o muerte) con independencia de como sean causados y basados en cualquier teoría de responsabilidad, ya sea contractual, responsabilidad objetiva o agravio (incluyendo negligencia o de otro tipo) derivada de cualquier forma del uso de la app, incluso si se informa de la posibilidad de dicho daño. La responsabilidad agregada de Philips respecto a sus obligaciones bajo este acuerdo o de otro modo respecto a la app o de otro modo no superará la cantidad de la tarifa que usted ha pagado por la app."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em nenhuma circunstância a Philips, ou quaisquer proprietários ou licenciantes do aplicativo, ou autores ou colaboradores do mesmo, serão responsáveis por quaisquer danos diretos, indiretos, incidentais, especiais, exemplares ou consequenciais (incluindo, mas não se limitando a, perda de utilização, dados ou lucros; interrupção de atividade; ou lesões pessoais ou morte) independentemente da causa e de qualquer teoria de responsabilidade, seja contratual, de responsabilidade objetiva ou delitual (incluindo negligência ou outros motivos) decorrentes, de qualquer forma, da utilização da aplicação, mesmo que tenha sido avisado da possibilidade de tais danos. A responsabilidade agregada da Philips relativamente às suas obrigações ao abrigo do presente acordo ou de outra forma relativamente à aplicação ou a outros aspectos não excederá o valor da taxa paga por si pela aplicação."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.3.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liability"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Responsabilidad"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Responsabilidade"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.4.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To the extent permitted under applicable law, these conditions of use shall be construed, interpreted and governed by the laws of the Netherlands without regard to conflicts of law provisions thereof.\n\nThe parties hereby agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to the conditions of use."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En la medida permitida por la ley aplicable, estas condiciones de uso deberán ser interpretadas, interpretadas y regidas por las leyes de los Países Bajos sin tener en cuenta las disposiciones sobre conflictos de leyes relativas a las mismas.\n\nLas partes acuerdan que la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Bienes no se aplicará a las condiciones de uso."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Na medida do permitido pela legislação aplicável, as presentes condições de utilização serão interpretadas e regidas pelas leis dos Países Baixos, sem ter em conta as disposições relativas a conflitos de leis.\n\nAs partes concordam, por meio do presente, que a Convenção das Nações Unidas sobre Contratos de Venda Internacional de Mercadorias não se aplicará às condições de utilização."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.4.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jurisdiction"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jurisdicción"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jurisdição"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.5.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.\n\nAlso you irrevocably grant the mobile application store where you have purchased this the right (who will be deemed to have accepted that right) to enforce these conditions against you as a third party beneficiary thereof.\n\nPhilips reserves the right to terminate or restrict your use of the App if you violate these Conditions of Use or are engaged in illegal or fraudulent use of this service."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usted representa y garantiza que (i) no está ubicado en un país sujeto a un embargo del Gobierno de EE. UU., o que ha sido designado por el Gobierno de EE. UU. como un país \"que apoya el terrorismo\"; y (ii) no está incluido en ninguna lista del Gobierno de EE. UU. de partes prohibidas o restringidas.\n\nAdemás, concedes irrevocablemente a la tienda de aplicaciones móviles donde has comprado el derecho (que se considerará que ha aceptado ese derecho) de hacer cumplir estas condiciones contra ti como tercer beneficiario.\n\nPhilips se reserva el derecho de terminar o restringir tu uso de la aplicación si violas estas Condiciones de Uso o participas en un uso ilegal o fraudulento de este servicio."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O utilizador declara e garante que (i) não se encontra num país sujeito a um embargo do Governo dos EUA, nem num país que tenha sido designado pelo Governo dos EUA como «país que apoia o terrorismo»; e (ii) não consta de nenhuma lista do Governo dos EUA de entidades proibidas ou sujeitas a restrições.\n\nAlém disso, concede irrevogavelmente à loja de aplicações móveis onde adquiriu esta aplicação o direito (que se considerará ter aceitado esse direito) de fazer valer estas condições contra si na qualidade de terceiro beneficiário das mesmas.\n\nA Philips reserva-se o direito de cancelar ou restringir a sua utilização da Aplicação caso viole as presentes Condições de Utilização ou se envolva na utilização ilegal ou fraudulenta deste serviço."
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.sections.5.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finally"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finalmente"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por fim"
+          }
+        }
+      }
+    },
+    "TermsAndConditionsScreen.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms and Conditions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Términos y Condiciones"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termos e Condições"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

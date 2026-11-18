@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>GenesysChatConfigurations</key>
+	<dict>
+		<key>ES</key>
+		<dict>
+			<key>DeploymentId</key>
+			<string>$(GENESYS_DEPLOYMENT_ID_ES)</string>
+			<key>Domain</key>
+			<string>$(GENESYS_DOMAIN_ES)</string>
+		</dict>
+		<key>META</key>
+		<dict>
+			<key>DeploymentId</key>
+			<string>$(GENESYS_DEPLOYMENT_ID_META)</string>
+			<key>Domain</key>
+			<string>$(GENESYS_DOMAIN_META)</string>
+		</dict>
+		<key>PR</key>
+		<dict>
+			<key>DeploymentId</key>
+			<string>$(GENESYS_DEPLOYMENT_ID_PR)</string>
+			<key>Domain</key>
+			<string>$(GENESYS_DOMAIN_PR)</string>
+		</dict>
+		<key>PT</key>
+		<dict>
+			<key>DeploymentId</key>
+			<string>$(GENESYS_DEPLOYMENT_ID_PT)</string>
+			<key>Domain</key>
+			<string>$(GENESYS_DOMAIN_PT)</string>
+		</dict>
+		<key>default</key>
+		<dict>
+			<key>DeploymentId</key>
+			<string>$(GENESYS_DEPLOYMENT_ID)</string>
+			<key>Domain</key>
+			<string>$(GENESYS_DOMAIN)</string>
+		</dict>
+	</dict>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+{
+  "originHash" : "9546206131f28d91cfa80b37571f845e5d3c62619202265d62a11faaf0508b39",
+  "pins" : [
+    {
+      "identity" : "filament-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:philips-internal/filament-swiftui.git",
+      "state" : {
+        "revision" : "c6986d3956e5ff9861af2435d4a9c54648dc9429",
+        "version" : "2.9.0"
+      }
+    },
+    {
+      "identity" : "mm-genesyscloudmessengertransport-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MyPureCloud/mm-genesyscloudmessengertransport-spm.git",
+      "state" : {
+        "revision" : "3dc926bd86de05cab638befc4fad45d072f792a4",
+        "version" : "2.16.0"
+      }
+    },
+    {
+      "identity" : "svgview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exyte/SVGView.git",
+      "state" : {
+        "revision" : "6465962facdd25cb96eaebc35603afa2f15d2c0d",
+        "version" : "1.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}

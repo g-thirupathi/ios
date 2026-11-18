@@ -1,0 +1,59 @@
+name: Prepare Xcode project
+description: Generates the Xcode project with XcodeGen and resolves the Swift packages pinned in Package.resolved.
+
+inputs:
+  filament-ssh-key:
+    description: Deploy key for the private Filament package. Empty uses the runner's own SSH setup.
+    required: false
+    default: ''
+
+runs:
+  using: composite
+  steps:
+    - name: Prepare environment
+      shell: bash
+      run: |
+        xcodebuild -version
+        echo "XcodeGen $(xcodegen --version)"
+        if [ -z "$GENESYS_DEPLOYMENT_ID" ] || [ -z "$GENESYS_DOMAIN" ]; then
+          echo "::error::Secrets GENESYS_DEPLOYMENT_ID and GENESYS_DOMAIN are required."
+          exit 1
+        fi
+        mkdir -p "$RUNNER_TEMP/logs"
+        {
+          echo "DERIVED_DATA=$RUNNER_TEMP/DerivedData"
+          echo "PACKAGES_DIR=$HOME/Library/Caches/PhilipsLiveApp-CI/SourcePackages"
+          echo "LOGS_DIR=$RUNNER_TEMP/logs"
+        } >> "$GITHUB_ENV"
+
+    - name: Load SSH key for private packages
+      shell: bash
+      env:
+        FILAMENT_SSH_KEY: ${{ inputs.filament-ssh-key }}
+      run: |
+        if [ -z "$FILAMENT_SSH_KEY" ]; then
+          echo "No Filament SSH key given; using the runner's own SSH setup."
+          exit 0
+        fi
+        eval "$(ssh-agent -s)"
+        ssh-add - <<< "$FILAMENT_SSH_KEY"
+        echo "SSH_AUTH_SOCK=$SSH_AUTH_SOCK" >> "$GITHUB_ENV"
+        echo "SSH_AGENT_PID=$SSH_AGENT_PID" >> "$GITHUB_ENV"
+        mkdir -p ~/.ssh
+        ssh-keygen -F github.com > /dev/null || ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+    - name: Generate Xcode project
+      shell: bash
+      run: xcodegen generate
+
+    - name: Resolve Swift packages
+      shell: bash
+      run: |
+        xcodebuild -resolvePackageDependencies \
+          -project "$PROJECT" \
+          -scheme "$SCHEME" \
+          -scmProvider system \
+          -onlyUsePackageVersionsFromResolvedFile \
+          -derivedDataPath "$DERIVED_DATA" \
+          -clonedSourcePackagesDirPath "$PACKAGES_DIR" \
+          | tee "$LOGS_DIR/resolve.log"
